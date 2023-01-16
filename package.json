@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://OlenaTeplodar.github.io/team-project-js-2",
+  "homepage": "https://yana2202.github.io/filmoteka-team-project-02",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /team-project-js-2/"
+    "build": "parcel build src/*.html --public-url /filmoteka-team-project-02/"
   },
   "repository": {
     "type": "git",
